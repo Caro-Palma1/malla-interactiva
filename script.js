@@ -87,7 +87,6 @@ const prerrequisitos = {
     "Intervención Social IIIA": ["Intervención Social IIB"],
     "Intervención Social IIIB": ["Intervención Social IIIA"],
     "Seminario de Investigación II": ["Seminario de Investigación I"],
-    "Lógicas de la Intervención Social": ["Teoría de la Acción Social"]
 };
 // Paleta de colores rosas
 const colores = {
